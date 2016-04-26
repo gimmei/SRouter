@@ -8,7 +8,7 @@
 
 #import "SRouterRemote.h"
 #import "publicInf_macro.h"
-#import "publicInf_def.h"
+
 #import "publicInf_cmds.h"
 SROUTER_DECLARED_NAME(keySRouterRemote_Scheme, @"SRR_Scheme"); //Scheme
 SROUTER_DECLARED_NAME(keySRouterRemote_Action, @"SRR_Action"); //动作
