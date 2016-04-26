@@ -2,8 +2,8 @@
 //  B_ViewModuleController.m
 //  TestRouter
 //
-//  Created by 陈思 on 16/4/19.
-//  Copyright © 2016年 chensi. All rights reserved.
+//  Created by cs on 16/4/19.
+//  Copyright © 2016年 cs. All rights reserved.
 //
 
 #import "B_ViewModuleController.h"
