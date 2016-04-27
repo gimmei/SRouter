@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "SRouter"
-  s.version      = "0.0.1"
+  s.version      = "0.0.4"
   s.summary      = "another simple router for ios."
   s.homepage     = "https://github.com/angelcs1990/SRouter"
   s.license      = { :type => "MIT", :file => "LICENSE" }
