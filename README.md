@@ -1,3 +1,9 @@
+SRouter
+==============
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/angelcs1990/SRouter/master/LICENSE)&nbsp;
+[![](https://img.shields.io/badge/platform-iOS-brightgreen.svg)](http://cocoapods.org/?q=SRouter)&nbsp;
+[![support](https://img.shields.io/badge/support-iOS6.0%2B-blue.svg)](https://www.apple.com/nl/ios/)&nbsp;
+
 #安装
 ##CocoaPods
 1. 在Podfile中添加pod 'SRouter'
